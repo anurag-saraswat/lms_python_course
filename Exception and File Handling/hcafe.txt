@@ -1,0 +1,3 @@
+These are the lecture notes of file handling in python
+hope you would like it
+thank you
