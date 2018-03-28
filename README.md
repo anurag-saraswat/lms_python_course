@@ -1,4 +1,4 @@
-# lms_python_course
+# Python Programming
 ## You can easily learn Python in 8 weeks(2Hrs per week approx.)
 <pre>
 WEEK 1:(Basics)
