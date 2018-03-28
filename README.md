@@ -1,6 +1,6 @@
 # lms_python_course
-# You can easily learn Python in 8 weeks(2Hrs per week approx.) by following strategy.
-
+## You can easily learn Python in 8 weeks(2Hrs per week approx.)
+<pre>
 WEEK 1:(Basics)
     1.Installing Python, Set up environment & Interactive Shell
     2.Keywords & identifiers
@@ -56,4 +56,4 @@ WEEK 8:(CONNECTING TO DATABASE)
 
  
                                                        !!THANK YOU!!
-
+</pre>
