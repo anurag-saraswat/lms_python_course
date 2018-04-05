@@ -4,7 +4,6 @@ from tkinter import *
 
 #### Functions
 def click():
-    print("abc")
     entered_text = textentry.get()   #collect data from text entry box
     output.delete(0.0 , END)
     try:
